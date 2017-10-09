@@ -4,6 +4,8 @@
 
 A CSV-Compression Tool and Library
 
+Warning: This Repository is awaiting breaking changes in the Binary Format!
+
 ### CSV compression tool
 
 Download and compile:
